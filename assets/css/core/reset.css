@@ -29,7 +29,6 @@ body {
     line-height: 1.6;
     word-break: break-word;
     background: var(--theme);
-    transition: background-color 1s, color 1s, background 1s;
 }
 
 article,
